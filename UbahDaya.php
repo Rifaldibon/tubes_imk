@@ -34,6 +34,12 @@
       <li class="nav-item">
         <a class="nav-link" href="SambungSementara.php" >Samse</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Keluhan.php" >Keluhan</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="CekTagihan.php" >Tagihan</a>
+      </li>
     </ul>
   </div>
 </nav>

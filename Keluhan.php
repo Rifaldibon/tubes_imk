@@ -34,6 +34,12 @@
       <li class="nav-item">
         <a class="nav-link" href="SambungSementara.php" >Samse</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Keluhan.php" >Keluhan</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="CekTagihan.php" >Tagihan</a>
+      </li>
     </ul>
   </div>
 </nav>
@@ -52,7 +58,7 @@
           <p>Layanan penerimaan dan penyampaian keluhan secara online yang cepat, mudah, nyaman, dan aman serta dapat dimonitor prosesnya</p>
         </div>
         <div class="col-md-7 paru-right">
-        <h2>Permohonan</h2>
+        <h2>Laporan</h2>
         <h6 class="sub-title-paru">Data Pelanggan</h6>
         <div class="paru-form-pelanggan">
           <div class="form-group">
